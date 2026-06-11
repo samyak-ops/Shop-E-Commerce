@@ -107,6 +107,6 @@ npm run dev
 
 Made with ❤️ by **Samyak Srivastava**
 
-Connect with me on [GitHub](https://github.com/rishisingh108)
+Connect with me on [GitHub](https://github.com/samyak-ops)
 
 ---
