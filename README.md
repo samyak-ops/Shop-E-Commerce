@@ -105,7 +105,7 @@ npm run dev
 
 ## 🤛🏼 Author
 
-Made with ❤️ by **Rishi Singh**
+Made with ❤️ by **Samyak Srivastava**
 
 Connect with me on [GitHub](https://github.com/rishisingh108)
 
